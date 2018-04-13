@@ -1,0 +1,26 @@
+c:\users\mmills\source\repos\Game Project\Game Project\bin\Debug\Game Project.exe.config
+c:\users\mmills\source\repos\Game Project\Game Project\bin\Debug\Game Project.exe
+c:\users\mmills\source\repos\Game Project\Game Project\bin\Debug\Game Project.pdb
+c:\users\mmills\source\repos\Game Project\Game Project\obj\Debug\Game Project.csprojResolveAssemblyReference.cache
+c:\users\mmills\source\repos\Game Project\Game Project\obj\Debug\Game_Project.GunPlay.resources
+c:\users\mmills\source\repos\Game Project\Game Project\obj\Debug\Game_Project.Properties.Resources.resources
+c:\users\mmills\source\repos\Game Project\Game Project\obj\Debug\Game Project.csproj.GenerateResource.Cache
+c:\users\mmills\source\repos\Game Project\Game Project\obj\Debug\Game Project.csproj.CoreCompileInputs.cache
+c:\users\mmills\source\repos\Game Project\Game Project\obj\Debug\Game Project.exe
+c:\users\mmills\source\repos\Game Project\Game Project\obj\Debug\Game Project.pdb
+\\MI\DFS\USERS\MMills\Desktop\SoftwareDeveloperStuff\Game Project\Game Project\bin\Debug\Game Project.exe.config
+\\MI\DFS\USERS\MMills\Desktop\SoftwareDeveloperStuff\Game Project\Game Project\bin\Debug\Game Project.exe
+\\MI\DFS\USERS\MMills\Desktop\SoftwareDeveloperStuff\Game Project\Game Project\bin\Debug\Game Project.pdb
+\\MI\DFS\USERS\MMills\Desktop\SoftwareDeveloperStuff\Game Project\Game Project\obj\Debug\Game Project.csprojResolveAssemblyReference.cache
+\\MI\DFS\USERS\MMills\Desktop\SoftwareDeveloperStuff\Game Project\Game Project\obj\Debug\Game_Project.GunPlay.resources
+\\MI\DFS\USERS\MMills\Desktop\SoftwareDeveloperStuff\Game Project\Game Project\obj\Debug\Game_Project.Properties.Resources.resources
+\\MI\DFS\USERS\MMills\Desktop\SoftwareDeveloperStuff\Game Project\Game Project\obj\Debug\Game Project.csproj.GenerateResource.Cache
+\\MI\DFS\USERS\MMills\Desktop\SoftwareDeveloperStuff\Game Project\Game Project\obj\Debug\Game Project.exe
+\\MI\DFS\USERS\MMills\Desktop\SoftwareDeveloperStuff\Game Project\Game Project\obj\Debug\Game Project.pdb
+\\MI\DFS\USERS\MMills\Desktop\SoftwareDeveloperStuff\Game Project\Game Project\obj\Debug\Game_Project.CustomMsgBox.resources
+C:\Class\SoftwareDeveloperStuffPt.1\Game Project\Game Project\bin\Debug\Game Project.exe.config
+C:\Class\SoftwareDeveloperStuffPt.1\Game Project\Game Project\obj\Debug\Game Project.exe
+C:\Class\SoftwareDeveloperStuffPt.1\Game Project\Game Project\obj\Debug\Game Project.pdb
+C:\GitProjects\Game Project\Game Project\bin\Debug\Game Project.exe.config
+C:\GitProjects\Game Project\Game Project\obj\Debug\Game Project.exe
+C:\GitProjects\Game Project\Game Project\obj\Debug\Game Project.pdb
